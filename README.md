@@ -1,8 +1,7 @@
-# 💫 About Me
 
-Hi, I’m **Hamza** 👋  
+<h1 align="center">Hi👋, I’m Hamza</h1>
 **Computer Science & Engineering student** focused on building **real, scalable systems**.
-
+## Currently into:
 - 💻 Strong interest in **Backend Systems** & **Scalable Web Development**
 - 🧠 Actively practicing **Data Structures & Algorithms** for problem-solving
 - 📊 Exploring **Machine Learning** & **Data Science** through hands-on projects
