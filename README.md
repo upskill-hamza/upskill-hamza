@@ -1,14 +1,12 @@
+<h1 align="center">Hi👋, I’m Hamza </h1>
 
-<h1 align="center">Hi👋, I’m Hamza</h1>
 **Computer Science & Engineering student** focused on building **real, scalable systems**.
-## Currently into:
+
 - 💻 Strong interest in **Backend Systems** & **Scalable Web Development**
 - 🧠 Actively practicing **Data Structures & Algorithms** for problem-solving
 - 📊 Exploring **Machine Learning** & **Data Science** through hands-on projects
 - 🌐 Building with **React**, **Next.js**, and backend technologies
 - ⚙️ Learning **DevOps fundamentals** — CI/CD, deployments, and version control
-- 🛠️ Turning **theory into production-ready projects**
-
 > Learning by **building**, **breaking**, and **fixing** systems.
 
 ---
